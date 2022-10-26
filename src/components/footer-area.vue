@@ -15,7 +15,10 @@
           Connect with me through my socials or send an e-mail across directly
           or through this form.
         </p>
-        <p class="hover:text-orange-400"><a href="mailto:tmdarowolo@gmail.com">tmdarowolo@gmail.com</a></p>
+        <p class="hover:
+        text-orange-400">
+          <a href="mailto:tmdarowolo@gmail.com">tmdarowolo@gmail.com</a>
+        </p>
       </div>
     </div>
 
