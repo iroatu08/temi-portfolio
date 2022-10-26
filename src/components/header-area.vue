@@ -11,7 +11,7 @@
 
       <div class="nav flex items-centers space-x-8 text-lg">
         <RouterLink to="/about">About</RouterLink>
-        <a href="/#showcase">Showcase</a>
+        <router-link to="/#showcase">Showcase</router-link>
         <RouterLink to="/contact">Contact</RouterLink>
 
         <div class="icons flex items-center space-x-4">

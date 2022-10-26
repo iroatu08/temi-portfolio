@@ -44,7 +44,8 @@
     </section>
 
     <div
-      class="ribbon h-20 footer-bg  flex items-center text-white italic px-4"
+      class="ribbon h-20 footer-bg flex items-center text-white italic px-4"
+      id="showcase"
     >
       <marquee>
         Swipe to see my Showcase fields | | Swipe to see my Showcase fields | |
