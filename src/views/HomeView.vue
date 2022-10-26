@@ -2,7 +2,7 @@
   <main>
     <section class="py-20 px-40 flex items-center gap-4">
       <div class="left-side w-1/2 space-y-4" id="left-side">
-        <h1 class="text-7xl font-bold text-gray-800">
+        <h1 class="text-8xl font-bold text-gray-800">
           Hi there! I’m <span className="orange">Temidayo</span>
         </h1>
         <p class="leading-6 font-light">
@@ -44,7 +44,7 @@
     </section>
 
     <div
-      class="ribbon h-20 bg-gray-800 flex items-center text-white italic px-4"
+      class="ribbon h-20 footer-bg  flex items-center text-white italic px-4"
     >
       <marquee>
         Swipe to see my Showcase fields | | Swipe to see my Showcase fields | |

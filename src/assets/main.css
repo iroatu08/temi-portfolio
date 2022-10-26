@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 body{
-  font-family: 'grotesk';
+  /* font-family: 'grotesk'; */
   background-color: #f5f5f5;
+  font-family: 'Blinker', sans-serif;
 }
 
 /* a,

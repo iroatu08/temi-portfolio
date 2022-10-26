@@ -10,7 +10,7 @@
     <div class="w-[45%] text-white self-start">
       <hr class="mb-2" />
       <div class="">
-        <h1 class="text-5xl mb-4 font-bold">Got something for me?</h1>
+        <h1 class="text-5xl mb-4 font-bold capitalize">GOT SOMETHING FOR ME?</h1>
         <p class="mb-4">
           Connect with me through my socials or send an e-mail across directly
           or through this form.

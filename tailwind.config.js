@@ -6,6 +6,14 @@ module.exports = {
       "temi-primary": "#4400A5",
       "temi-secondary": "#F38043",
     },
+
+    fontFamily: {
+      blinker: ["Blinker", "sans-serif"],
+    },
+    container: {
+      padding: "2rem",
+      center: true,
+    },
     screens: {
       sm: "640px",
       md: "768px",
