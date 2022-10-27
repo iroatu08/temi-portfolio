@@ -14,17 +14,20 @@
         </p>
 
         <div class="btns flex items-center gap-4">
-          <button
-            class="orange-btn text-white flex items-center px-4 py-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-90 duration-200"
-          >
-            <span>Know More</span>
-            <img
-              class="w-6"
-              src="../assets/arrow-circle.svg"
-              alt=""
-              srcset=""
-            />
-          </button>
+          <RouterLink to="/about">
+            <button
+              class="orange-btn text-white flex items-center px-4 py-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-90 duration-200"
+            >
+              <span>Know More</span>
+              <img
+                class="w-6"
+                src="../assets/arrow-circle.svg"
+                alt=""
+                srcset=""
+              />
+            </button>
+          </RouterLink>
+
           <button
             class="border border-black px-4 py-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-90 duration-200"
           >
@@ -67,6 +70,7 @@
 <script setup>
 import gsap from "gsap";
 import { onMounted } from "vue";
+import { RouterLink } from "vue-router";
 
 onMounted(() => {
   gsap.to("#left-side", {
